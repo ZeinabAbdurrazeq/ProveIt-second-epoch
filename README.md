@@ -1,4 +1,4 @@
-# Provelt System Architecture & Technical Analysis Report
+# Provelt System Architecture & Technical Analysis 
 
 Welcome! This report provides a detailed, end-to-end analysis of **Provelt**, a collaborative peer-to-peer coding platform and adaptive AI-driven mock interview system. This project is structured as a monorepo containing three core packages:
 
